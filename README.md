@@ -29,7 +29,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/TechnoMindz/Extra_Feature_Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/harigih/Extra_Feature_Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
